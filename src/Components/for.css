@@ -1,0 +1,32 @@
+.titulo{
+   text-align: center;
+   font-size: 5vw;
+   
+};
+
+.form-control mb-2{
+    height: 50vh;
+}
+
+.frm{
+    text-align: center;
+}
+
+#in{
+    margin: 3%;
+    display: block;
+    margin-left: 35%;
+    width: 30vw;
+    height: 4vh;
+    border: 0.1vw solid black;
+}
+
+.btn{
+    width: 15vw;
+    height: auto;
+    height: 4.5vw;
+    font-family: cursive;
+    margin-top: 2%;
+    margin-left: 37.5%;
+    background-color: transparent;
+}

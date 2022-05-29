@@ -1,0 +1,60 @@
+.cont2{
+    
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+    
+    background-color: blanchedalmond;
+    
+}
+
+.thissite{
+    font-size: 2vw;
+    width: 70vw;
+    margin-left: 3%;
+    margin-top: 15%;
+    font-weight: bold;
+    
+}
+
+.email{
+    font-size: 2vw;
+    font-weight: bold;
+
+    align-content: center;
+    margin-top: 4%;
+    margin-left: 3%;
+}
+
+.V{
+        
+        color: rgb(110, 4, 4);
+        font-family: Courier;
+        font-size: 15vw;
+        margin-left: 45%;
+        margin-top: -12.7%;
+        
+        
+        
+        animation-name: vamp;
+        animation-timing-function: linear;
+        animation-duration: 4s;
+        -webkit-transform-origin-x: 5vw;
+        animation-iteration-count: infinite;
+    }
+    @keyframes vamp{
+        from{transform: rotateY(0deg);}
+        to{transform: rotateY(360deg);}
+    }
+
+
+.ampi{
+    display: flex;
+    font-size: 4.3vw;
+    margin-left: 53%;
+    margin-top: -9.5%;
+    color: rgb(11, 6, 53);
+    
+    
+    
+}
